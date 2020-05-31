@@ -4,3 +4,10 @@ The CNN model was trained over a mere 1200 images, therefore the accuracy may no
 </br>
 </br>
 Feel free to fork the project and train over more examples.
+</br>
+## With Mask
+<img src="https://github.com/shivamshan/FACE_MASK_DETECTOR/blob/master/shi1.png" >
+</br>
+
+## Without Mask
+<img src="https://github.com/shivamshan/FACE_MASK_DETECTOR/blob/master/shi2.png">
